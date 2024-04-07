@@ -108,6 +108,17 @@ const AddProduct = () => {
             </p>
           )}
         </div>
+        <div className="form-group">
+          <label htmlFor="exampleInputEmail1">Category</label>
+          <input
+            type="text"
+            className="form-control"
+            {...form.register("categoryId", { required: "Không được để trống" })}
+          />
+          {form.formState.errors.categoryId && (
+            <p className="text-danger">{form.formState.errors.categoryId.message}</p>
+          )}
+        </div>
         <button type="submit" className="btn btn-primary mt-3">
           Submit
         </button>

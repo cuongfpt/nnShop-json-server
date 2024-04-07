@@ -22,6 +22,7 @@ import Desimg2 from "@/img/desimg2.png";
 import Option from "@/img/option.png";
 import Dot from "@/img/dot.png";
 import Viewlist from "@/img/viewlist.png";
+import Removve from "@//img/removve.png";
 
 export {
   Logo,
@@ -48,4 +49,5 @@ export {
   Option,
   Dot,
   Viewlist,
+  Removve,
 };

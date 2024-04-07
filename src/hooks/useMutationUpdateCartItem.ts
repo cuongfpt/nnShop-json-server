@@ -1,23 +1,18 @@
-// useMutationUpdateCartItem.ts
+
 import intance from "@/configs/axios";
+import { ICart } from "@/interfaces/ICart";
 import { useMutation, useQueryClient } from "@tanstack/react-query";
-
-
-type UpdateCartItemParams = {
-    userId: string;
-  productId: string;
-  quantity: number;
-};
 
 export const useMutationUpdateCartItem = () => {
   const queryClient = useQueryClient();
-
   const { mutate } = useMutation({
-    mutationFn: async ({userId, productId, quantity }: UpdateCartItemParams) => {
-      const response = await intance.put(`carts?userId=${userId}&productId=${productId}`, {
-        quantity,
-      });
-      return response.data;
+    mutationFn: async (cart: ICart) => {
+   
+      
+      const data =  await intance.get(`carts?userId=${cart.userId}`);
+      const cartID = data.data?.[0].id;
+      console.log("🚀 ~ mutationFn: ~ cartID:", cartID);
+      return await intance.put(`carts/${cartID}`, cart);
     },
     onSuccess: () => {
       queryClient.invalidateQueries({
@@ -25,6 +20,5 @@ export const useMutationUpdateCartItem = () => {
       });
     },
   });
-
   return { mutate };
 };

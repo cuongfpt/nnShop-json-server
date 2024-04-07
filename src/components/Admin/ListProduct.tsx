@@ -20,6 +20,7 @@ const ListProduct = () => {
             <th>Image phụ</th>
             <th>Discount</th>
             <th>Quantity</th>
+            <th>CategoryId</th>
             <th>Action</th>
           </tr>
         </thead>
@@ -42,6 +43,7 @@ const ListProduct = () => {
               </td>
               <td>{product.discount}</td>
               <td>{product.quantity}</td>
+              <td>{product.categoryId}</td>
               <td>
                 <Link
                   to={`/admin/products/${product.id}/edit`}

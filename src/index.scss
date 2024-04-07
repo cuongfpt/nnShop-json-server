@@ -16,7 +16,12 @@ body {
 html {
   font-size: 62.5%;
 }
-
+.text-3xl{
+  font-size: 16px;
+  padding: 10px;
+  border: 1px solid #000;
+  width: 100px;
+}
 .container {
   width: 1240px;
   margin: 0 auto;
@@ -1059,4 +1064,48 @@ html {
 
 .form .register-form {
   display: none;
+}
+.btn_plus{
+  background-color: #4CAF50; /* Màu nền */
+ border: none; /* Loại bỏ đường viền */
+ color: white; /* Màu chữ */
+ padding: 5px 15px; /* Kích thước nút */
+ text-align: center; /* Căn giữa nội dung */
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ margin: 4px 2px;
+ cursor: pointer; /* Con trỏ chuột thay đổi khi di chuột qua */
+ transition-duration: 0.4s;
+}
+.btn_plus:hover{
+  background-color: #45a049; /* Màu nền khi di chuột qua */
+  color: white;
+}
+.btn_plus:active{
+  background-color: #45a049; /* Màu nền khi click */
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.btn_minus{
+  background-color: red; /* Màu nền */
+ border: none; /* Loại bỏ đường viền */
+ color: white; /* Màu chữ */
+ padding: 5px 15px; /* Kích thước nút */
+ text-align: center; /* Căn giữa nội dung */
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ margin: 4px 2px;
+ cursor: pointer; /* Con trỏ chuột thay đổi khi di chuột qua */
+ transition-duration: 0.4s;
+}
+.btn_minus:hover{
+  background-color: red; /* Màu nền khi di chuột qua */
+  color: white;
+}
+.btn_minus:active{
+  background-color: red; /* Màu nền khi click */
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }

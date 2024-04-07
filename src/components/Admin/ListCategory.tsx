@@ -22,6 +22,7 @@ const ListCategory = () => {
               <td>
                 {/* <Link
                   to={`/admin/products/${product.id}/edit`}
+                  
                   className="btn btn-success me-2"
                 >
                   Edit

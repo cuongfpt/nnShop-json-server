@@ -40,10 +40,10 @@
   "products": [
     {
       "id": "1",
-      "name": "Sản phẩm 1",
+      "name": "iPhone 15 Pro 128GB",
       "description": "Mô tả sản phẩm 1",
       "price": 100000,
-      "mainImage": "https://sieuthismartphone.vn/data/product/small/small_cqp1607983036.png",
+      "mainImage": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-blue-0-650x650.jpg",
       "additionalImages": [
         {
           "image1": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
@@ -64,45 +64,45 @@
     },
     {
       "id": "3f71",
-      "name": "Iphone 11",
+      "name": "Samsung Galaxy S22 5G",
       "price": "333",
-      "mainImage": "https://sieuthismartphone.vn/data/product/small/small_cqp1607983036.png",
+      "mainImage": "https://img.lazcdn.com/g/p/0688a874ae8b081b17f1d6bd6ded3254.jpg_720x720q80.jpg",
       "additionalImages": [
         {
-          "image1": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+          "image1": "https://clickbuy.com.vn//uploads/images/2023/10/s22-s901b-pp.jpg"
         },
         {
-          "image2": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+          "image2": "https://static.alaneesqatar.qa/2022/08/galaxy-s22-5g-bora-purple-4.png"
         },
         {
-          "image3": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+          "image3": "https://images.samsung.com/is/image/samsung/assets/hk/news/galaxy-s22-5g-launches-new-bora-purple-color/Galaxy_S22_Bora_Purple_1_720x470.jpg?$FB_TYPE_B_JPG$"
         },
         {
-          "image4": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+          "image4": "https://img.lazcdn.com/g/p/0688a874ae8b081b17f1d6bd6ded3254.jpg_720x720q80.jpg"
         }
       ],
       "description": "dada",
       "discount": "2",
       "quantity": "23",
-      "categoryId": "1"
+      "categoryId": "2"
     },
     {
       "id": "aa48",
-      "name": "Iphone 11",
+      "name": "Samsung z flip 4",
       "price": "333",
-      "mainImage": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548944936_iphone-15-promax-xanh-1.jpg",
+      "mainImage": "https://bizweb.dktcdn.net/100/463/685/products/untitled-1ae.png?v=1663125024703",
       "additionalImages": [
         {
-          "image1": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+          "image1": "https://images.samsung.com/ae/smartphones/galaxy-z-flip4/buy/MENA_B4_KV_720x720_Bora-Purple_MO.jpg"
         },
         {
-          "image2": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+          "image2": "https://m.media-amazon.com/images/I/61b-nhR5wmL.jpg"
         },
         {
-          "image3": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+          "image3": "https://img.global.news.samsung.com/vn/wp-content/uploads/2022/08/Samsung-Galaxy-Flip4-2.jpg"
         },
         {
-          "image4": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+          "image4": "https://i.pcmag.com/imagery/articles/04wRzfjZW7ttZRVB2REclmR-1.fit_lim.v1668696902.jpg"
         }
       ],
       "description": "adad",
@@ -114,7 +114,7 @@
       "id": "d424",
       "name": "Iphone 13 pro hồng",
       "price": "23",
-      "mainImage": "https://cdn-v2.didongviet.vn/files/products/2023/8/29/1/1695953356175_thumb_iphone_15_didongviet.jpg",
+      "mainImage": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-plus-series-image-16.png",
       "additionalImages": [
         {
           "image1": "https://cdn-v2.didongviet.vn/files/products/2023/8/13/1/1694575451709_2_iphone_15_hong_didongviet.jpg"
@@ -126,55 +126,127 @@
           "image3": "https://cdn-v2.didongviet.vn/files/products/2023/8/13/1/1694575461273_5_iphone_15_hong_didongviet.jpg"
         },
         {
-          "image4": "https://cdn-v2.didongviet.vn/files/products/2023/8/13/1/1694575464105_6_iphone_15_hong_didongviet.jpg"
+          "image4": "https://images.fpt.shop/unsafe/filters:quality(90)/fptshop.com.vn/uploads/images/tin-tuc/162050/Originals/iphone-15-plus.jpg"
         }
       ],
       "description": "Phone 15 Plus 128GB Chính hãng ",
       "discount": "20",
       "quantity": "15",
-      "categoryId": "3"
+      "categoryId": "1"
     },
     {
       "id": "a7f5",
-      "name": "iPhone 14 128GB",
+      "name": "Tai Nghe Tai Mèo Yowu 3S LED RBG",
       "price": "3332",
-      "mainImage": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/30/638054090260153672_ip-14-tim-1.jpg",
+      "mainImage": "https://vn-test-11.slatic.net/p/7dd072c4d0568ba0ab6fbe242bec5e1f.jpg",
       "additionalImages": [
         {
-          "image1": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921569328245_iphone-14-tim-4.jpg"
+          "image1": "https://vn-test-11.slatic.net/p/d7b6a28bb9b13d57b3764a3477b53b00.jpg"
         },
         {
-          "image2": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921565407165_iphone-14-tim-7.jpg"
+          "image2": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lrvdpse3fnpg18"
         },
         {
-          "image3": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217507240_iphone-14-14-plus-1.jpg"
+          "image3": "https://img.lazcdn.com/g/ff/kf/S2b4565189b664e71bf2a6a92fda5d766M.jpg_720x720q80.jpg"
         },
         {
-          "image4": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217016907_iphone-14-14-plus-2.jpg"
+          "image4": "https://phukiensmart.com/wp-content/uploads/2023/01/tai-nghe-ONIKUMA-K9-Tai-nghe-bluetooth-2.jpg"
         }
       ],
-      "description": "iPhone 14 128GB",
+      "description": " Mèo Yowu 3S LED RBG",
       "discount": "10",
       "quantity": "2",
+      "categoryId": "3"
+    },
+    {
+      "id": "6905",
+      "name": "Tai Nghe Mèo Chụp Tai Bluetooth ",
+      "price": "122",
+      "mainImage": "https://down-vn.img.susercontent.com/file/66b85165ba0e243d654cab28bf3350d4_tn",
+      "additionalImages": [
+        {
+          "image1": "https://manhtiengiasi.com/upload/hinhthem/6-5203.jpg"
+        },
+        {
+          "image2": "https://laz-img-sg.alicdn.com/p/94f0f3dd949ad0bbdd35cf338912d3b9.jpg"
+        },
+        {
+          "image3": "https://manhtiengiasi.com/upload/hinhthem/10-4269.jpeg"
+        },
+        {
+          "image4": "https://manhtiengiasi.com/upload/hinhthem/2-9496.jpg"
+        }
+      ],
+      "description": "đẹp",
+      "discount": "10",
+      "quantity": "2",
+      "categoryId": "3"
+    },
+    {
+      "id": "58a7",
+      "name": "Chuột  AKKO RG325 Dragon Ball Z",
+      "price": "123",
+      "mainImage": "https://akko.vn/wp-content/uploads/2020/06/10917.jpg",
+      "additionalImages": [
+        {
+          "image1": "https://m.maihoang.com.vn/thumb/crop/11184"
+        },
+        {
+          "image2": "https://product.hstatic.net/200000453251/product/714699831323529081468048156969603294035968n-510x510-3676_720a2fd7a02a498cb1b5cca0d29567f4_master.jpg"
+        },
+        {
+          "image3": "https://vn-test-11.slatic.net/p/adabf02fc8fadb0ab6bd5b516d175285.jpg"
+        },
+        {
+          "image4": "https://nguyencongpc.vn/media/product/17127-chuot-akko-ag325-dragon-ball-super-gold.jpg"
+        }
+      ],
+      "description": "goku",
+      "discount": "10",
+      "quantity": "22",
+      "categoryId": "4"
+    },
+    {
+      "id": "de0f",
+      "name": "Chuột chơi game AG325 One Piece ",
+      "price": "688",
+      "mainImage": "https://fiveskindecal.com/uploads/source/sanpham-moi/mieng-dan-skin-3m-chuot-logitech-g-pro-luffy-one-piece-(3).webp",
+      "additionalImages": [
+        {
+          "image1": "https://product.hstatic.net/200000722513/product/-666_a4f86772293a4c4bae9c331ef5261d84_f2a46fc16a6444a0b69c986d93e46397_9d531585bc26470e96b3b282dfd86bb5_1024x1024.jpg"
+        },
+        {
+          "image2": "https://akko.vn/wp-content/uploads/2020/11/AKKO-AG325-Monkey-D-Luffy-03.jpg"
+        },
+        {
+          "image3": "https://vucuongcomputer.com/wp-content/uploads/2023/08/akko-ag325-one-piece-luffy.jpg"
+        },
+        {
+          "image4": "https://vn-test-11.slatic.net/p/6362eb9af5e408f30d88c6cea5cf0a68.jpg"
+        }
+      ],
+      "description": "đẹp",
+      "discount": "12",
+      "quantity": "10",
       "categoryId": "4"
     }
   ],
   "categories": [
     {
       "id": "1",
-      "name": "Điện thoại"
+      "name": "IPHONE"
     },
     {
       "id": "2",
-      "name": "Laptop"
+      "name": "SAMSUNG"
     },
     {
       "id": "3",
-      "name": "Tablet"
+      "name": "Tai Nghe"
     },
     {
       "id": "4",
-      "name": "Phụ kiện"
+      "name": "Chuột"
     }
   ],
   "carts": [
@@ -183,25 +255,25 @@
       "userId": "cf78",
       "items": [
         {
+          "productId": "a7f5",
+          "quantity": 1,
+          "name": "Tai Nghe Tai Mèo Yowu 3S LED RBG",
+          "mainImage": "https://vn-test-11.slatic.net/p/7dd072c4d0568ba0ab6fbe242bec5e1f.jpg",
+          "price": "3332"
+        },
+        {
           "productId": "3f71",
-          "quantity": 8,
-          "name": "Iphone 11",
-          "mainImage": "https://sieuthismartphone.vn/data/product/small/small_cqp1607983036.png",
+          "quantity": 1,
+          "name": "Samsung Galaxy S22 5G",
+          "mainImage": "https://img.lazcdn.com/g/p/0688a874ae8b081b17f1d6bd6ded3254.jpg_720x720q80.jpg",
           "price": "333"
         },
         {
-          "productId": "d424",
-          "quantity": 3,
-          "name": "Iphone 13 pro hồng",
-          "mainImage": "https://cdn-v2.didongviet.vn/files/products/2023/8/29/1/1695953356175_thumb_iphone_15_didongviet.jpg",
-          "price": "23"
-        },
-        {
-          "productId": "aa48",
-          "quantity": 3,
-          "name": "Iphone 11",
-          "mainImage": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548944936_iphone-15-promax-xanh-1.jpg",
-          "price": "333"
+          "productId": "6905",
+          "quantity": 9,
+          "name": "Tai Nghe Mèo Chụp Tai Bluetooth ",
+          "mainImage": "https://down-vn.img.susercontent.com/file/66b85165ba0e243d654cab28bf3350d4_tn",
+          "price": "122"
         }
       ]
     }
