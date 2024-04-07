@@ -1,0 +1,209 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "cuongb1",
+      "password": "cuongb1",
+      "role": "user"
+    },
+    {
+      "id": "3",
+      "username": "user2",
+      "password": "user2Password",
+      "role": "user"
+    },
+    {
+      "id": "cf78",
+      "username": "mcuong2003",
+      "password": "mcuong2003",
+      "role": "user"
+    },
+    {
+      "id": "596b",
+      "username": "hieu1232",
+      "password": "hieu1232",
+      "role": "user"
+    },
+    {
+      "id": "2c7f",
+      "username": "datdz",
+      "password": "datdz",
+      "role": "user"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Sản phẩm 1",
+      "description": "Mô tả sản phẩm 1",
+      "price": 100000,
+      "mainImage": "https://sieuthismartphone.vn/data/product/small/small_cqp1607983036.png",
+      "additionalImages": [
+        {
+          "image1": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+        },
+        {
+          "image2": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989547694968_iphone-15-promax-xanh-3.jpg"
+        },
+        {
+          "image3": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548632428_iphone-15-promax-xanh-4.jpg"
+        },
+        {
+          "image4": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548944936_iphone-15-promax-xanh-1.jpg"
+        }
+      ],
+      "discount": 10,
+      "quantity": 100,
+      "categoryId": "1"
+    },
+    {
+      "id": "3f71",
+      "name": "Iphone 11",
+      "price": "333",
+      "mainImage": "https://sieuthismartphone.vn/data/product/small/small_cqp1607983036.png",
+      "additionalImages": [
+        {
+          "image1": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+        },
+        {
+          "image2": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+        },
+        {
+          "image3": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+        },
+        {
+          "image4": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+        }
+      ],
+      "description": "dada",
+      "discount": "2",
+      "quantity": "23",
+      "categoryId": "1"
+    },
+    {
+      "id": "aa48",
+      "name": "Iphone 11",
+      "price": "333",
+      "mainImage": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548944936_iphone-15-promax-xanh-1.jpg",
+      "additionalImages": [
+        {
+          "image1": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+        },
+        {
+          "image2": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+        },
+        {
+          "image3": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+        },
+        {
+          "image4": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548164135_iphone-15-promax-xanh-2.jpg"
+        }
+      ],
+      "description": "adad",
+      "discount": "23",
+      "quantity": "2",
+      "categoryId": "2"
+    },
+    {
+      "id": "d424",
+      "name": "Iphone 13 pro hồng",
+      "price": "23",
+      "mainImage": "https://cdn-v2.didongviet.vn/files/products/2023/8/29/1/1695953356175_thumb_iphone_15_didongviet.jpg",
+      "additionalImages": [
+        {
+          "image1": "https://cdn-v2.didongviet.vn/files/products/2023/8/13/1/1694575451709_2_iphone_15_hong_didongviet.jpg"
+        },
+        {
+          "image2": "https://cdn-v2.didongviet.vn/files/products/2023/8/13/1/1694575457223_3_iphone_15_hong_didongviet.jpg"
+        },
+        {
+          "image3": "https://cdn-v2.didongviet.vn/files/products/2023/8/13/1/1694575461273_5_iphone_15_hong_didongviet.jpg"
+        },
+        {
+          "image4": "https://cdn-v2.didongviet.vn/files/products/2023/8/13/1/1694575464105_6_iphone_15_hong_didongviet.jpg"
+        }
+      ],
+      "description": "Phone 15 Plus 128GB Chính hãng ",
+      "discount": "20",
+      "quantity": "15",
+      "categoryId": "3"
+    },
+    {
+      "id": "a7f5",
+      "name": "iPhone 14 128GB",
+      "price": "3332",
+      "mainImage": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/11/30/638054090260153672_ip-14-tim-1.jpg",
+      "additionalImages": [
+        {
+          "image1": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921569328245_iphone-14-tim-4.jpg"
+        },
+        {
+          "image2": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/8/638138921565407165_iphone-14-tim-7.jpg"
+        },
+        {
+          "image3": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217507240_iphone-14-14-plus-1.jpg"
+        },
+        {
+          "image4": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/23/638127639217016907_iphone-14-14-plus-2.jpg"
+        }
+      ],
+      "description": "iPhone 14 128GB",
+      "discount": "10",
+      "quantity": "2",
+      "categoryId": "4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Điện thoại"
+    },
+    {
+      "id": "2",
+      "name": "Laptop"
+    },
+    {
+      "id": "3",
+      "name": "Tablet"
+    },
+    {
+      "id": "4",
+      "name": "Phụ kiện"
+    }
+  ],
+  "carts": [
+    {
+      "id": "a752",
+      "userId": "cf78",
+      "items": [
+        {
+          "productId": "3f71",
+          "quantity": 8,
+          "name": "Iphone 11",
+          "mainImage": "https://sieuthismartphone.vn/data/product/small/small_cqp1607983036.png",
+          "price": "333"
+        },
+        {
+          "productId": "d424",
+          "quantity": 3,
+          "name": "Iphone 13 pro hồng",
+          "mainImage": "https://cdn-v2.didongviet.vn/files/products/2023/8/29/1/1695953356175_thumb_iphone_15_didongviet.jpg",
+          "price": "23"
+        },
+        {
+          "productId": "aa48",
+          "quantity": 3,
+          "name": "Iphone 11",
+          "mainImage": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2023/9/20/638307989548944936_iphone-15-promax-xanh-1.jpg",
+          "price": "333"
+        }
+      ]
+    }
+  ]
+}

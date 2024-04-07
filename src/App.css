@@ -1,0 +1,98 @@
+.sidebar {
+    width: 400px;
+    background-color: #0948b3;
+    color: white;
+    padding: 20px;
+    font-size: 23px;
+  }
+  
+  .sidebar h1 {
+    font-size: 36px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar ul li a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+  }
+  
+  .sidebar ul li a:hover {
+    background-color: #1756c5;
+  }
+  
+  .main-content {
+    padding-left: 20px;
+    font-size: 20px;
+  }
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: white;
+    color: black;
+  }
+  
+  .btn__delete {
+    background-color: red;
+    display: flex;
+    gap: 5px;
+    padding: 10px;
+    align-items: center;
+    color: #ffffff;
+    margin: 40px 0px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 10px;
+   }
+  
+   input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* Style the submit button with a specific background color etc */
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .h-900px{
+    height:800px;
+  }
+  .focus-point-container {
+    width: 100%; /* Đặt kích thước mong muốn */
+    height: 700px; /* Đặt kích thước mong muốn */
+    overflow: hidden; /* Ẩn phần của ảnh không nằm trong khung nhìn */
+}
+
+.focus-point-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 50%; /* Đặt vị trí trọng tâm ở giữa */
+}
