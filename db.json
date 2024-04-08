@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": "1",
+      "id": "596b",
       "username": "admin",
       "password": "admin",
       "role": "admin"
@@ -22,7 +22,7 @@
       "id": "cf78",
       "username": "mcuong2003",
       "password": "mcuong2003",
-      "role": "user"
+      "role": "admin"
     },
     {
       "id": "596b",
@@ -269,11 +269,45 @@
           "price": "333"
         },
         {
+          "productId": "aa48",
+          "quantity": 6,
+          "name": "Samsung z flip 4",
+          "mainImage": "https://bizweb.dktcdn.net/100/463/685/products/untitled-1ae.png?v=1663125024703",
+          "price": "333"
+        },
+        {
           "productId": "6905",
-          "quantity": 9,
+          "quantity": 4,
           "name": "Tai Nghe Mèo Chụp Tai Bluetooth ",
           "mainImage": "https://down-vn.img.susercontent.com/file/66b85165ba0e243d654cab28bf3350d4_tn",
           "price": "122"
+        }
+      ]
+    },
+    {
+      "id": "a753",
+      "userId": "596b",
+      "items": [
+        {
+          "productId": "aa48",
+          "quantity": 1,
+          "name": "Samsung z flip 4",
+          "mainImage": "https://bizweb.dktcdn.net/100/463/685/products/untitled-1ae.png?v=1663125024703",
+          "price": "333"
+        },
+        {
+          "productId": "6905",
+          "quantity": 3,
+          "name": "Tai Nghe Mèo Chụp Tai Bluetooth ",
+          "mainImage": "https://down-vn.img.susercontent.com/file/66b85165ba0e243d654cab28bf3350d4_tn",
+          "price": "122"
+        },
+        {
+          "productId": "58a7",
+          "quantity": 4,
+          "name": "Chuột  AKKO RG325 Dragon Ball Z",
+          "mainImage": "https://akko.vn/wp-content/uploads/2020/06/10917.jpg",
+          "price": "123"
         }
       ]
     }

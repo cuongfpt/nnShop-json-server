@@ -4,12 +4,13 @@ import useQueryCart from "@/hooks/useQueryCart";
 import { ICartItem } from "@/interfaces/ICartItems";
 import { Removve } from "../components/icons";
 import { useEffect, useState } from "react";
-import { useMutationCart } from "@/hooks/useMutaionCart";
+
+
 
 const CartPage = () => {
   const { data } = useQueryCart();
   const { mutate } = useMutationUpdateCartItem();
-  const { mutate : Delete } = useMutationCart({ action: "DeleteCart" });
+  // const { mutate : Delete } = useMutationCart({ action: "DeleteCart" });
   const [cart, setCart] = useState(data?.[0]);
 
   const updateQuantity = (productID : string, newQuantity : number) => {
@@ -28,7 +29,7 @@ const CartPage = () => {
       }
     
   };
-
+ 
   useEffect(() => {
     setCart(data?.[0]);
   }, [data]);
@@ -81,7 +82,7 @@ const CartPage = () => {
                       </td>
                       <td className="tbody_subtotal">{items.price * items.quantity}đ</td>
                       <td className="tbody_action">
-                      <img src={Removve} alt="" onClick={() => Delete(items)} />
+                      <img src={Removve} alt=""  />
                       </td>
                     </tr>
                   ))}

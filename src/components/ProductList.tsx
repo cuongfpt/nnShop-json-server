@@ -2,6 +2,7 @@ import { useQueryProduct } from "@/hooks/useQueryProduct";
 import { shareIcon, compareIcon, HeartcardIcon } from "./icons";
 import { IProduct } from "@/interfaces/IProduct";
 import { Link } from "react-router-dom";
+import { convert } from "@/configs/utils";
 type ProductListProps = {
   categoryId?: string;
   action: "category" | "product" | "productDetail";
@@ -35,7 +36,7 @@ const ProductList = ({ categoryId, action }: ProductListProps) => {
                   Stylish cafe chair
                 </a>
                 <div className="product-price">
-                  <span className="product-price__new">{product.price}</span>
+                  <span className="product-price__new">{convert.format(product.price)}</span>
                   <span className="product-price__old">3.500.000đ</span>
                 </div>
               </div>
